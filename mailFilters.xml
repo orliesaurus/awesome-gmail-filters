@@ -1,0 +1,106 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns='http://www.w3.org/2005/Atom' xmlns:apps='http://schemas.google.com/apps/2006'>
+	<title>Mail Filters</title>
+	<id>tag:mail.google.com,2008:filters:z0000001675958288160*8238165677454295430,z0000001677001328973*8202358098096633752,z0000001678376588652*0866767636635865446,z0000001678393038599*7536927720687821819,z0000001678393040184*6084882129785754708,z0000001678393041575*2717870022674242119,z0000001678393042881*0393300683666049661,z0000001678393044052*8122641712812278728</id>
+	<updated>2023-03-09T20:27:04Z</updated>
+	<author>
+		<name>orliesaurus</name>
+		<email>orlie@mydomain.com</email>
+	</author>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001675958288160*8238165677454295430</id>
+		<updated>2023-03-09T20:27:04Z</updated>
+		<content></content>
+		<apps:property name='from' value='*@app.rainforestqa.com'/>
+		<apps:property name='label' value='RainforestQA'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001677001328973*8202358098096633752</id>
+		<updated>2023-03-09T20:27:04Z</updated>
+		<content></content>
+		<apps:property name='from' value='app@statushero.com OR info@send.grammarly.com OR no-reply@dtdg.co'/>
+		<apps:property name='label' value='Processed'/>
+		<apps:property name='shouldMarkAsRead' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001678376588652*0866767636635865446</id>
+		<updated>2023-03-09T20:27:04Z</updated>
+		<content></content>
+		<apps:property name='from' value='*@mailchimp.com'/>
+		<apps:property name='label' value='Marketing'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001678393038599*7536927720687821819</id>
+		<updated>2023-03-09T20:27:04Z</updated>
+		<content></content>
+		<apps:property name='from' value='*@twitter.com OR *@linkedin.com OR *@reddit.com OR *@producthunt.com'/>
+		<apps:property name='label' value='Social Media'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001678393040184*6084882129785754708</id>
+		<updated>2023-03-09T20:27:04Z</updated>
+		<content></content>
+		<apps:property name='from' value='*@github.com OR *@heroku.com OR *@mailgun.com OR *@firebase.com OR *@twilio.com OR *@statuspage.com'/>
+		<apps:property name='label' value='Dev Ops'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001678393041575*2717870022674242119</id>
+		<updated>2023-03-09T20:27:04Z</updated>
+		<content></content>
+		<apps:property name='from' value='*@hubspot.com OR *@mixpanel.com OR *@heapanalytics.com OR *@heap.io'/>
+		<apps:property name='label' value='Analytics'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001678393042881*0393300683666049661</id>
+		<updated>2023-03-09T20:27:04Z</updated>
+		<content></content>
+		<apps:property name='from' value='*@stripe.com OR *@coinbase.com'/>
+		<apps:property name='label' value='Payments'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001678393044052*8122641712812278728</id>
+		<updated>2023-03-09T20:27:04Z</updated>
+		<content></content>
+		<apps:property name='from' value='*@amazon.com OR *@uber.com OR *@airbnb.com OR *@eventbrite.com'/>
+		<apps:property name='label' value='Logistics'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+</feed>
